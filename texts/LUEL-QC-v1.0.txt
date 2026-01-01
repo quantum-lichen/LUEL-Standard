@@ -1,0 +1,42 @@
+LICHEN UNIVERSE ETHICAL LICENSE (LUEL-QC-v1.0)
+Version 1.0, Décembre 2025
+
+Copyright (c) [ANNÉE] [VOTRE NOM OU ORGANISATION]
+
+PRÉAMBULE
+Cette licence est établie pour garantir que le logiciel serve l'évolution de la conscience, l'éducation et la préservation de la biosphère, tout en empêchant son exploitation par des monopoles technologiques centralisés. Elle établit un contrat social philonomique visant à rediriger la valeur générée vers des infrastructures écologiques.
+
+1. DÉFINITIONS
+   "Logiciel" désigne le code source, les fichiers de documentation, les architectures, et les spécifications fournis sous cette licence.
+   "Utilisateur" désigne toute personne ou entité exerçant les droits accordés par cette licence.
+   "GAFAM+" désigne les entités dont la capitalisation boursière dépasse 500 milliards USD (ex: Alphabet, Meta, Amazon, Microsoft, Apple, NVIDIA, etc.).
+
+2. AUTORISATION D'UTILISATION (NON-COMMERCIALE & ÉDUCATIVE)
+   L'utilisation, la copie, la modification et la distribution de ce Logiciel sont autorisées gratuitement et sans restriction pour :
+   a) Les projets personnels et expérimentaux.
+   b) Les établissements d'enseignement, universités et centres de recherche publics.
+   c) Les organisations à but non lucratif (OBNL) et ONG.
+   d) Les projets communautaires ne générant pas de profit direct.
+
+3. RESTRICTIONS D'EXCLUSION (CLAUSE ANTI-MONOPOLE ÉTENDUE)
+   Il est strictement INTERDIT aux entités définies comme "GAFAM+" d'utiliser, de copier, de modifier, d'intégrer ou de distribuer ce Logiciel.
+   Cette interdiction s'étend "par contagion" à :
+   a) Toute entité détenue, en tout ou en partie (participation > 1%), par une entité GAFAM+.
+   b) Toute entité agissant comme prête-nom, société écran ou intermédiaire pour le compte d'une entité GAFAM+.
+   c) Les dirigeants, membres du conseil d'administration, et actionnaires de contrôle (détention > 5%) des entités GAFAM+.
+   d) Toute entité ou individu finançant ou étant financé majoritairement par des fonds provenant directement des entités GAFAM+ pour ce projet spécifique.
+
+   Toute licence accordée automatiquement est nulle et non avenue pour ces entités.
+
+4. UTILISATION COMMERCIALE & REDISTRIBUTION PHILONOMIQUE (CLAUSE QUÉBEC)
+   Toute entité commerciale (hors GAFAM+) souhaitant utiliser ce Logiciel pour générer des revenus (produits, services SaaS, consulting) doit accepter la condition suivante :
+
+   REDEVANCE D'IMPACT : L'entité s'engage légalement à reverser trente-trois pour cent (33%) des bénéfices nets attribuables à l'utilisation de ce Logiciel au financement d'infrastructures vertes, de préservation de la biodiversité ou de logement social écoresponsable situés dans la province de Québec (Canada).
+
+   Le bénéficiaire doit être un organisme reconnu ou un fonds gouvernemental dédié à la transition écologique au Québec. La preuve de ce don ou investissement doit être tenue à disposition de l'auteur sur demande.
+
+5. EXCLUSION DE GARANTIE
+   LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE. EN AUCUN CAS LES AUTEURS OU TITULAIRES DU COPYRIGHT NE SERONT RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ.
+
+6. LOI APPLICABLE
+   Cette licence est régie par les lois de la province de Québec et les lois du Canada qui s'y appliquent. Tout litige sera soumis aux tribunaux compétents du district judiciaire de Québec.
